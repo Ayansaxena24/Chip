@@ -19,7 +19,7 @@ const ChipInput: React.FC = () => {
     "Anita Gros",
     "Nick Giannopoulos",
     "Megan Smith",
-    "Narayana Gamer",
+N",
   ];
 
   useEffect(() => {

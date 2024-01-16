@@ -16,10 +16,10 @@ const ChipInput: React.FC = () => {
 
   const items = [
     "Marina Augustine",
-    "Anita Gros",
+    "Anita Fros",
     "Nick Giannopoulos",
-    "Megan Smith",
-    "Narayana Gamer",
+    "Alice Smith",
+    "Bob Johnson",
   ];
 
   useEffect(() => {
